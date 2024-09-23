@@ -1,0 +1,4 @@
+/bert-base-chinese/*.safetensors
+/bert-base-chinese/*.bin
+/bert-base-chinese/*.h5
+/bert-base-chinese/*.msgpack
